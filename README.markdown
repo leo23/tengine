@@ -1,3 +1,15 @@
+If you are a member of taobao.com
+
+you can use 
+
+	./tengine-combo.sh
+
+if you do not want cancat module ,use 
+
+	./tengine.sh
+
+
+
 
 Introduction
 ============
